@@ -30,3 +30,21 @@
     border:6px dashed rgb(194, 100, 0);
     font-weight: bold;
 }
+
+canvas
+{
+    border:5px dashed rgb(194, 100, 0);
+    border-radius:20px;
+    box-shadow:5px 5px 5px rgb(194, 100, 0);
+    margin-left: 240px;
+}
+
+body{
+    background-repeat: none;
+    background-size: 1500px;
+}
+
+video
+{
+    margin-left: 230px;
+}
